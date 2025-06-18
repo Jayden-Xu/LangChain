@@ -1,0 +1,1 @@
+This repo contains the learning files for Chroma, an open-source AI application database.
